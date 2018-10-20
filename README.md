@@ -1,6 +1,8 @@
 # js-game-slot-machine
 ES6 module based slot machine, with results fetched from an API -- or in this case, a JSON file
 
+[DEMO link -- https://jscoox.github.io/slot-machine/](https://jscoox.github.io/slot-machine/)
+
 ## General guidelines
 
 - No external libraries or framework can be used
