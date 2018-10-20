@@ -3,6 +3,13 @@ ES6 module based slot machine, with results fetched from an API -- or in this ca
 
 [DEMO link -- https://jscoox.github.io/slot-machine/](https://jscoox.github.io/slot-machine/)
 
+NOTE: There are only 3 possible combination, given the list of possible JSONS that are fetched:
+- answer1.json
+- answer2.json
+- answer3.json
+
+For a realtime interaction, with different outcomes, a backend environment -- like Node with express -- is necessary.
+
 ## General guidelines
 
 - No external libraries or framework can be used
